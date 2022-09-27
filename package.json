@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "urban-company-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owii8247/Urban-Company-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owii8247/Urban-Company-Api/issues"
+  },
+  "homepage": "https://github.com/owii8247/Urban-Company-Api#readme",
+  "description": ""
+}
