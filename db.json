@@ -1,7 +1,7 @@
 {
-    "Service_page_data": [
+    "service": [
       {
-        "Salon_for_women_data": [
+        "women_saloon": [
           {
             "id": 1,
             "Title": "Salon For Women",
@@ -62,11 +62,12 @@
                 "para": "Hair Colour & care"
               }
             ],
-            "packages_components1": [
+            "packages1": [
               {
                 "id": "1",
-                "title": "Full chocolate | chocolate roll-on wacxing",
+                "title": "Full chocolate | chocolate roll-on waxing",
                 "price": "₹849",
+                "rating":"3.9 (240k)",
                 "time": "1 hr 5 mins",
                 "para": [
                   {
@@ -87,6 +88,7 @@
                 "id": "2",
                 "title": "Glow getter",
                 "price": "₹1619",
+                "rating":"4.2 (170k)",
                 "time": "1 hr 25 mins",
                 "para": [
                   {
@@ -103,6 +105,7 @@
                 "id": "3",
                 "title": "Make your own package-roll on special",
                 "price": "₹1284",
+                "rating":"4.3 (440k)",
                 "time": "1 hr 50 mins",
                 "para": [
                   {
@@ -135,6 +138,7 @@
                 "id": "4",
                 "title": "Make your own package",
                 "price": "₹1850",
+                "rating":"3.9 (240k)",
                 "time": "2 hr 50 mins",
                 "para": [
                   {
@@ -175,6 +179,7 @@
                 "id": "5",
                 "title": "Complete honey waxing",
                 "price": "₹399",
+                "rating":"4.2 (3.6k)",
                 "time": "1 hr 10 mins",
                 "para": [
                   {
@@ -196,11 +201,12 @@
                 ]
               }
             ],
-            "packages_components2": [
+            "packages2": [
               {
                 "id": "1",
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100967218-f08380.png",
                 "title": "Full body",
+                "rating":"3.4 (20k)",
                 "price": "₹1399",
                 "para": [
                   {
@@ -218,6 +224,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100955968-c5b3f1.png",
                 "title": "Stomach",
                 "price": "₹299",
+                "rating":"4.3 (240k)",
                 "para": [
                   {
                     "id": "1",
@@ -230,6 +237,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657100969960-ef6f74.png",
                 "title": "Fruit cleanup",
                 "price": " Starts at ₹699",
+                "rating":"3.7 (30k)",
                 "time": "2 hrs 20 mins",
                 "para": [
                   {
@@ -247,6 +255,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/supply/customer-app-supply/1634707058605-fd6260.png",
                 "title": "Glow Facial",
                 "price": " Starts at ₹1099",
+                "rating":"3.9 (240k)",
                 "para": [
                   {
                     "id": "1",
@@ -263,6 +272,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657015111280-ecba9e.png",
                 "title": "Cut, file & polish(hands)",
                 "price": "₹199",
+                "rating":"3.0 (940k)",
                 "time": "15 mins",
                 "para": [
                   {
@@ -276,6 +286,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657525354775-6f2f1b.png",
                 "title": "Elysian British rose mainicure",
                 "price": "₹649",
+                "rating":"3.0 (20k)",
                 "time": "45 mins",
                 "para": [
                   {
@@ -289,6 +300,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657018447765-ef2c1f.png",
                 "title": "Cut, file & polish(feet)",
                 "price": "₹199",
+                "rating":"4.6 (640k)",
                 "time": "15 mins",
                 "para": [
                   {
@@ -302,6 +314,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657525354775-6f2f1b.png",
                 "title": "Elysian British rose mainicure",
                 "price": "₹849",
+                "rating":"3.9 (240k)",
                 "time": "1 hr 5 mins",
                 "para": [
                   {
@@ -315,6 +328,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657523964352-5dd593.png",
                 "title": "Face wax",
                 "price": "Starts at ₹69",
+                "rating":"3.9 (240k)",
                 "para": [
                   {
                     "id": "1",
@@ -331,6 +345,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657524490060-23016c.png",
                 "title": "Threading",
                 "price": " Starts at ₹19",
+                "rating":"3.1 (640k)",
                 "para": [
                   {
                     "id": "1",
@@ -343,6 +358,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657523167667-d1f1eb.png",
                 "title": "Detan",
                 "price": "Starts at ₹349",
+                "rating":"3.6 (240k)",
                 "para": [
                   {
                     "id": "1",
@@ -355,6 +371,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657520810954-691bb1.png",
                 "title": "Bleach",
                 "price": "Starts at ₹299",
+                "rating":"3.9 (40k)",
                 "para": [
                   {
                     "id": "1",
@@ -371,6 +388,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657524726085-34bdda.png",
                 "title": "Hair colour application",
                 "price": "Starts at ₹249",
+                "rating":"3.9 (240k)",
                 "para": [
                   {
                     "id": "1",
@@ -387,6 +405,7 @@
                 "img": "https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,q_auto:low,f_auto/images/growth/luminosity/1657524725157-0eea37.png",
                 "title": "Head massage",
                 "price": "₹299",
+                "rating":"3.6 (2k)",
                 "time": "20 mins",
                 "para": [
                   {
@@ -417,5 +436,70 @@
         "id": "1",
         "count": 1
       }
+    ],
+    "reviews":[
+        {
+            "id":1,
+            "name":"Vishal",
+            "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,w_48,dpr_1,fl_progressive:steep,q_auto/images/growth/customer-subscription/1628519483435-dc165c.jpeg",
+            "member":"Oct 2020",
+            "review_detail":"Strongly Recommended - Value for money",
+            "star":"4.5",
+            "views":"3.5k"
+        },
+        {
+            "id":2,
+            "name":"Roshni",
+            "image":"https://res.cloudinary.com/urbanclap/image/upload/t_high_res_template,w_48,dpr_1,fl_progressive:steep,q_auto/images/growth/customer-subscription/1628519485187-8e7028.jpeg",
+            "member":"Sept 2021",
+            "review_detail":"Satisfied with the services - Value for money",
+            "star":"4.2",
+            "views":"5.5k"
+        },
+        {
+            "id":3,
+            "name":"Adi",
+            "member":"Jan 2020",
+            "review_detail":"Amazing services - Value for money",
+            "star":"4.1",
+            "views":"6.5k"
+        },
+        {
+            "id":4,
+            "name":"Supriya",
+            "image":"https://res.cloudinary.com/urbanclap/image/upload/t_medium_res_template,w_48,dpr_1,fl_progressive:steep,q_auto/images/growth/customer-subscription/1628519492148-943b5a.jpeg",
+            "member":"Feb 2022",
+            "review_detail":"Customer Friendly Home Service Was Superb",
+            "star":"4",
+            "views":"6.3k"
+        },
+        {
+            "id":5,
+            "name":"Owii",
+            "image":"https://avatars.githubusercontent.com/u/100846987?v=4",
+            "member":"July 2020",
+            "review_detail":"Strongly Recommended - Value for money",
+            "star":"4.5",
+            "views":"9.5k"
+        },
+        {
+            "id":6,
+            "name":"Supriya",
+            "image":"https://res.cloudinary.com/urbanclap/image/upload/t_medium_res_template,w_48,dpr_1,fl_progressive:steep,q_auto/images/growth/customer-subscription/1628519492148-943b5a.jpeg",
+            "member":"Feb 2022",
+            "review_detail":"Customer Friendly Home Service Was Superb",
+            "star":"4",
+            "views":"6.3k"
+        },
+        {
+            "id":7,
+            "name":"Owii",
+            "image":"https://avatars.githubusercontent.com/u/100846987?v=4",
+            "member":"July 2020",
+            "review_detail":"Strongly Recommended - Value for money",
+            "star":"4.5",
+            "views":"9.5k"
+        }
+
     ]
-  }
+}
